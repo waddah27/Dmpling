@@ -3,6 +3,7 @@ from dmpling.cs import CanonicalSystem
 from dmpling import utils
 
 
+
 class DMP:
     def __init__(self, T, dt, a=150, b=25, n_bfs=10):
         self.T = T
